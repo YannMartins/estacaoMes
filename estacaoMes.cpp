@@ -2,7 +2,7 @@
 =========================================================
 Name        : estacaoMes
 Author      : Yann Martins
-Description : Program in C++
+Description : Imprime a estação do ano referente ao mês informado.
 =========================================================
 */
 

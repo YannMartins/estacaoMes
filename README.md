@@ -1,6 +1,6 @@
 # Informa a estação do ano a partir do mês correspondente.
 ## Lê o número relacionado ao mês e imprime a estação do ano correspondente.
-### Janeiro, fevereiro, março: Verao.
+### Janeiro, fevereiro, março: Verão.
 ### Abril, maio, junho:	Outono.
 ### Julho, agosto, setembro: Inverno.
 ### Outubro, novembro, dezembro: Primavera.

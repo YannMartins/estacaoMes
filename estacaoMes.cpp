@@ -1,11 +1,3 @@
-/*
-=========================================================
-Name        : estacaoMes
-Author      : Yann Martins
-Description : Imprime a estação do ano referente ao mês informado.
-=========================================================
-*/
-
 #include <stdio.h>
 int main ()
 {

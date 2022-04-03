@@ -1,11 +1,3 @@
-/*
-=========================================================
-Name        : estacaoMes
-Author      : Yann Martins
-Description : Program in C++
-=========================================================
-*/
-
 #include <stdio.h>
 int main ()
 {
